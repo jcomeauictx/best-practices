@@ -1,4 +1,4 @@
-![Leave those shoelaces tied!](shoelaces-leave-them-tied/shoelaces-leave-them-tied.jpg)
+![Leave those shoelaces tied!](shoelaces-leave-them-tied.jpg)
 
 Shoelaces are a pain. If you forget to double-tie them, they may come undone, and be a tripping hazard or, at minimum, make you look like an idiot. And if you forget they’re double-tied, it’s easy to make them next to impossible to untie when you yank on the free end, tightening the knot.
 
